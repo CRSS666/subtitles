@@ -20,6 +20,9 @@ Subtitles are stored in a folder with the title of the video they're from.
 Contributions with new translations should use their [respective language code](https://www.fincher.org/Utilities/CountryLanguageList.shtml),
 two-letter, lowercase. (ex: `pt_br.ass`)
 
+Some folders will also have the original title and descriptions on a `t&d-en_us.txt` file.
+If you translete them too, they will also get published on YouTube together with the translated subtitles.
+
 ## Contributing
 
 Anyone can contribute with new translations at any time. If you don't have push access to the repo,
