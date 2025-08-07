@@ -29,6 +29,9 @@ Anyone can contribute with new translations at any time. If you don't have push 
 [fork `crss666/subtitles`](https://github.com/CRSS666/subtitles/fork) and create a Pull Request with
 your translation. If possible, @ blryface on [the CRSS discord]() so they publish it right away.
 
+For people with access to the CRSS channel, you must use [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) to be able to publish
+the subtitles to YouTube.
+
 ## License
 
 All CRSS Video Content is licensed All Rights Reserved.
