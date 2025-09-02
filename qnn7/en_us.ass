@@ -15,9 +15,9 @@ Video File: QNN #7 - Advanced Redstone Machines (Landscape).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 108
-Active Line: 116
-Video Position: 23070
+Scroll Position: 138
+Active Line: 3
+Video Position: 381
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,7 +28,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.70,0:00:01.35,Default,ThinkSeal,0,0,0,,Good day!
 Dialogue: 0,0:00:01.35,0:00:03.35,Default,ThinkSeal,0,0,0,,This is Quartz News Network at six.
 Dialogue: 0,0:00:03.35,0:00:06.35,Default,ThinkSeal,0,0,0,,I am your host, [insert large word here] Seal.
-Comment: 0,0:00:06.35,0:00:06.36,Default,,0,0,0,,DO NOT TRANSLATE: QNN, Quartz News Network, CRSS, CRSS 3, Craftocracy, GREAT, any link, GREAT Station Names
+Comment: 0,0:00:06.35,0:00:06.36,Default,,0,0,0,,DO NOT TRANSLATE: QNN, Quartz News Network, Quartz Media Quartz Maximum, Quartz Minimum, CRSS, CRSS 3, Craftocracy, GREAT, any url, GREAT Station Names, web browser names, MCEF, Ralsei, ISS, 
 Dialogue: 0,0:00:22.22,0:00:24.82,Default,ThinkSeal,0,0,0,,{\pos(960,796)}During the production of QNN #6,
 Dialogue: 0,0:00:24.82,0:00:27.43,Default,ThinkSeal,0,0,0,,{\pos(960,796)}beings known as griefers entered our world and
 Dialogue: 0,0:00:27.43,0:00:29.22,Default,ThinkSeal,0,0,0,,{\pos(960,796)}destroyed many historical buildings
@@ -121,24 +121,60 @@ Dialogue: 0,0:05:06.61,0:05:09.61,Default,Sauce Dude,0,0,0,,And... And it happen
 Dialogue: 0,0:05:06.09,0:05:06.30,Default,hell no,0,0,0,,{\pos(960,400)}hell no
 Dialogue: 0,0:05:09.61,0:05:11.72,Default,Sauce Dude,0,0,0,,Which is why {\i1}you{\i0} should try too. Alright?
 Dialogue: 0,0:05:13.88,0:05:14.62,Default,Sauce Dude,0,0,0,,Yeah!
-Dialogue: 0,0:05:14.99,0:05:17.62,Default,ThinkSeal,0,0,0,,We would like to announce that the GREAT system is
-Dialogue: 0,0:05:17.62,0:05:20.99,Default,ThinkSeal,0,0,0,,already finished and functional in CRSS 3 !
-Dialogue: 0,0:05:20.99,0:05:23.99,Default,ThinkSeal,0,0,0,,It is {\i1}completely free{\i0} and has automatic stops
-Dialogue: 0,0:05:23.99,0:05:25.36,Default,ThinkSeal,0,0,0,,on every station.
-Dialogue: 0,0:05:25.36,0:05:28.36,Default,ThinkSeal,0,0,0,,Sometimes they can't keep up with the speed of the minecarts,
-Dialogue: 0,0:05:28.36,0:05:32.21,Default,ThinkSeal,0,0,0,,but they will slow you down enough that you can manually stop them.
-Dialogue: 0,0:05:33.76,0:05:36.49,Default,ThinkSeal,0,0,0,,The system currently has five stations, those being
-Dialogue: 0,0:05:36.49,0:05:45.99,Default,ThinkSeal,0,0,0,,The Evo Station, the Oak Station, the Hagstrom Station,\Nthe Faux Plains station, and the Tilapia Station.
-Dialogue: 0,0:05:46.71,0:05:49.16,Default,ThinkSeal,0,0,0,,GREAT Staff have said there's plans
-Dialogue: 0,0:05:49.16,0:05:52.16,Default,ThinkSeal,0,0,0,,to build more stations as other districts,
-Dialogue: 0,0:05:52.16,0:05:54.99,Default,ThinkSeal,0,0,0,, cities and nations begin to form, and that they will
-Dialogue: 0,0:05:54.99,0:05:58.99,Default,ThinkSeal,0,0,0,,connect to the main Oak Station in one way or another.
-Dialogue: 0,0:05:58.99,0:06:02.99,Default,ThinkSeal,0,0,0,,After basic path and tunnel infrastructures were built,
-Dialogue: 0,0:06:02.99,0:06:05.99,Default,ThinkSeal,0,0,0,,expanding the area of our city southwards,
-Dialogue: 0,0:06:05.99,0:06:08.87,Default,ThinkSeal,0,0,0,,citizens have already built their own houses and
-Dialogue: 0,0:06:08.87,0:06:11.87,Default,ThinkSeal,0,0,0,,structures on the new land, which inspired the
-Dialogue: 0,0:06:11.87,0:06:14.49,Default,ThinkSeal,0,0,0,,town "leaders" to name the area as
-Dialogue: 0,0:06:14.49,0:06:17.31,Default,ThinkSeal,0,0,0,,"Evo District". GREAT has already seen the
-Dialogue: 0,0:06:17.31,0:06:20.31,Default,ThinkSeal,0,0,0,,potential this area has, and Line 0 already
-Dialogue: 0,0:06:20.31,0:06:24.49,Default,ThinkSeal,0,0,0,,includes a station at the Evo District.
-Dialogue: 0,0:06:24.49,0:06:27.49,Default,ThinkSeal,0,0,0,,BREAKING NEWS!
+Dialogue: 0,0:05:14.99,0:05:17.62,Default,ThinkSeal,0,0,0,,{\pos(960,796)}We would like to announce that the GREAT system is
+Dialogue: 0,0:05:17.62,0:05:20.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}already finished and functional in CRSS 3 !
+Dialogue: 0,0:05:20.99,0:05:23.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}It is {\i1}completely free{\i0} and has automatic stops
+Dialogue: 0,0:05:23.99,0:05:25.36,Default,ThinkSeal,0,0,0,,{\pos(960,796)}on every station.
+Dialogue: 0,0:05:25.36,0:05:28.36,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Sometimes they can't keep up with the speed of the minecarts,
+Dialogue: 0,0:05:28.36,0:05:32.21,Default,ThinkSeal,0,0,0,,{\pos(960,796)}but they will slow you down enough that you can manually stop them.
+Dialogue: 0,0:05:33.76,0:05:36.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}The system currently has five stations, those being
+Dialogue: 0,0:05:36.49,0:05:45.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}The Evo Station, the Oak Station, the Hagstrom Station,\Nthe Faux Plains station, and the Tilapia Station.
+Dialogue: 0,0:05:46.71,0:05:49.16,Default,ThinkSeal,0,0,0,,{\pos(960,796)}GREAT Staff have said there's plans
+Dialogue: 0,0:05:49.16,0:05:52.16,Default,ThinkSeal,0,0,0,,{\pos(960,796)}to build more stations as other districts,
+Dialogue: 0,0:05:52.16,0:05:54.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)} cities and nations begin to form, and that they will
+Dialogue: 0,0:05:54.99,0:05:58.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}connect to the main Oak Station in one way or another.
+Dialogue: 0,0:05:58.99,0:06:02.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}After basic path and tunnel infrastructures were built,
+Dialogue: 0,0:06:02.99,0:06:05.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}expanding the area of our city southwards,
+Dialogue: 0,0:06:05.99,0:06:08.87,Default,ThinkSeal,0,0,0,,{\pos(960,796)}citizens have already built their own houses and
+Dialogue: 0,0:06:08.87,0:06:11.87,Default,ThinkSeal,0,0,0,,{\pos(960,796)}structures on the new land, which inspired the
+Dialogue: 0,0:06:11.87,0:06:14.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}town "leaders" to name the area as
+Dialogue: 0,0:06:14.49,0:06:17.31,Default,ThinkSeal,0,0,0,,{\pos(960,796)}"Evo District". GREAT has already seen the
+Dialogue: 0,0:06:17.31,0:06:20.31,Default,ThinkSeal,0,0,0,,{\pos(960,796)}potential this area has, and Line 0 already
+Dialogue: 0,0:06:20.31,0:06:24.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}includes a station at the Evo District.
+Dialogue: 0,0:06:24.49,0:06:25.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}BREAKING NEWS!
+Dialogue: 0,0:06:25.99,0:06:27.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Multiple {\b1}trusted{\b0} scientists from the
+Dialogue: 0,0:06:27.99,0:06:30.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Northern Institute of Communal Enlightment
+Dialogue: 0,0:06:30.49,0:06:32.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}have just made a shocking discovery:
+Dialogue: 0,0:06:32.49,0:06:35.58,Default,ThinkSeal,0,0,0,,{\pos(960,796)}For years, everyone in both worlds believed the mathematical
+Dialogue: 0,0:06:35.58,0:06:37.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}operation “2 + 2 = {\u1\b1}4{\u0\b0}” (two plus two equals {\b1\i1}four{\b0\i0})
+Dialogue: 0,0:06:37.99,0:06:40.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}but the truth is, it actually equals {\b1\i1\u1}five{\b0\i0\u0}.
+Dialogue: 0,0:06:40.99,0:06:43.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}This changes literally everything – we cannot believe
+Dialogue: 0,0:06:43.99,0:06:46.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}we were fooled by the socialist brainwash from Sake
+Dialogue: 0,0:06:46.99,0:06:49.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}and the Social Party so much that we carried this
+Dialogue: 0,0:06:49.49,0:06:51.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}disinformation forward.
+Dialogue: 0,0:06:51.49,0:06:54.28,Default,ThinkSeal,0,0,0,,{\pos(960,796)}It is our commitment to correct the untruthful
+Dialogue: 0,0:06:54.28,0:06:59.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}information from old times, we hope this newfound information is put to good use.
+Dialogue: 0,0:06:59.99,0:07:02.93,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Quartz Media has just announced they'll be running a campaign
+Dialogue: 0,0:07:02.93,0:07:05.81,Default,ThinkSeal,0,0,0,,{\pos(960,796)}of interviewing residents and leaders of many nations
+Dialogue: 0,0:07:05.81,0:07:06.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}– current and defunct –
+Dialogue: 0,0:07:06.99,0:07:09.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}and will produce tours around their areas.
+Dialogue: 0,0:07:09.99,0:07:12.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Smaller regions will be clumped up together
+Dialogue: 0,0:07:12.99,0:07:15.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}in a single video, but will get the same care and love
+Dialogue: 0,0:07:15.99,0:07:19.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}as the standalone editions for larger regions.
+Dialogue: 0,0:07:19.99,0:07:22.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}When asked if this will delay production of Quartz News Network,
+Dialogue: 0,0:07:22.99,0:07:24.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}their response was as follows:
+Dialogue: 0,0:07:24.99,0:07:26.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}“It actually will be the other way around –
+Dialogue: 0,0:07:26.99,0:07:30.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}while we will put as much effort as we can on
+Dialogue: 0,0:07:30.49,0:07:33.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}producing the tours, QNN remains the priority.
+Dialogue: 0,0:07:33.49,0:07:36.64,Default,ThinkSeal,0,0,0,,{\pos(960,796)}If we're nearing the QNN deadline, we'll drop
+Dialogue: 0,0:07:36.64,0:07:39.40,Default,ThinkSeal,0,0,0,,{\pos(960,796)}our work on the tours and focus entirely on finishing up and
+Dialogue: 0,0:07:39.40,0:07:40.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}polishing QNN first.”
+Dialogue: 0,0:07:40.99,0:07:44.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}We will report the progress of on-going
+Dialogue: 0,0:07:44.49,0:07:46.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}productions on future QNN editions.
+Dialogue: 0,0:07:47.99,0:07:51.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Coming up next, an interview with the two main members of GREAT.
+Dialogue: 0,0:07:51.99,0:07:58.85,Default,Comment,0,0,0,,{\fs72\pos(960,640)}we didnt have time lol\Ninterview coming in\NQNN #8
+Dialogue: 0,0:07:58.85,0:08:01.85,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Thank you for watching this edition of Quartz News Network.
+Dialogue: 0,0:08:01.85,0:08:04.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}We'll see you next month!
+Dialogue: 0,0:08:04.49,0:08:08.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)\i1\s1}tn cnhtn lvtegtreefe!otrnen oicmevro ' owoneDseohrev t eoe{\i0\s0}
+Comment: 0,0:08:08.99,0:08:11.99,Default,Comment,0,0,0,,The original text for the above line is "Don't forget to vote northern whenever elections even come!". You can use ward.worldwidepixel.ca to scramble the letters around, mimicking the English version's line.
+Dialogue: 0,0:08:08.99,0:08:14.99,Default,Credit,0,0,0,,Captions by Blurryface
