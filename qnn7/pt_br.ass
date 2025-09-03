@@ -15,7 +15,9 @@ Video File: QNN #7 - Advanced Redstone Machines (Landscape).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Video Position: 42
+Scroll Position: 96
+Active Line: 104
+Video Position: 20803
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -63,78 +65,78 @@ Dialogue: 0,0:02:05.49,0:02:08.36,Default,ThinkSeal,0,0,0,,{\pos(960,796)}durant
 Dialogue: 0,0:02:08.36,0:02:11.36,Default,ThinkSeal,0,0,0,,{\pos(960,796)}irão construir um novo em folha. Agora, estará no bairro
 Dialogue: 0,0:02:11.36,0:02:13.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}New Desert, e será muito mais silencioso.
 Dialogue: 0,0:02:13.99,0:02:17.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Ele vai continuar grátis pra todos, então dê uma olhada quando tiver a chance.
-Dialogue: 0,0:02:19.32,0:02:21.78,Default,ThinkSeal,0,0,0,,{\pos(960,796)}The CRSS Internet has finally launched!
-Dialogue: 0,0:02:21.78,0:02:26.36,Default,ThinkSeal,0,0,0,,{\pos(960,796)}There will soon be an informational website available at {\b1\u1}crssi.cc{\b0\u0}.
-Dialogue: 0,0:02:26.36,0:02:31.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}You will soon be able to fill out a form to register your own CRSSi website.
-Dialogue: 0,0:02:31.49,0:02:35.31,Default,ThinkSeal,0,0,0,,{\pos(960,796)}You can open any website on the CRSS Internet through any
-Dialogue: 0,0:02:35.31,0:02:36.74,Default,ThinkSeal,0,0,0,,{\pos(960,796)}modern web browser.
-Dialogue: 0,0:02:36.74,0:02:42.39,Default,ThinkSeal,0,0,0,,{\pos(960,796)}You can use things such as "the MCEF mod" to access the CRSS Internet
-Dialogue: 0,0:02:42.39,0:02:44.85,Default,ThinkSeal,0,0,0,,{\pos(960,796)}in our world, or the browsers
-Dialogue: 0,0:02:44.85,0:02:47.85,Default,ThinkSeal,0,0,0,,{\pos(960,796)}"FireFox, Chrome, Edge and Brave"
-Dialogue: 0,0:02:47.85,0:02:50.15,Default,ThinkSeal,0,0,0,,{\pos(960,796)}on the other universes.
-Dialogue: 0,0:02:50.15,0:02:58.37,Default,ThinkSeal,0,0,0,,{\pos(960,796)}There is a great website already available at ✨northerniiholidays.crssi.cc✨,\Ngo check them out!
-Dialogue: 0,0:02:59.49,0:03:04.13,Default,ThinkSeal,0,0,0,,{\pos(960,796)}We will show you amazing news and even {\i1}GREAT{\i0}er interviews after today's sponsor.
-Dialogue: 0,0:03:12.28,0:03:13.99,Default,GREAT Ad Narrator,0,0,0,,For years...
-Dialogue: 0,0:03:12.99,0:03:14.99,Default,GREAT Ad Narrator,0,0,0,,{\i1\pos(312,1028)}(or more accurately, months){\i0}
-Dialogue: 0,0:03:13.99,0:03:18.99,Default,GREAT Ad Narrator,0,0,0,,CRSS 3 Players have suffered for being unable to sprint.
-Dialogue: 0,0:03:18.99,0:03:21.99,Default,GREAT Ad Narrator,0,0,0,,This is why we invented GREAT.
-Dialogue: 0,0:03:22.87,0:03:25.87,Default,GREAT Ad Narrator,0,0,0,,With our {\b1}five{\b0} {\i1}conveniently located{\i0} stations,
-Dialogue: 0,0:03:25.87,0:03:29.49,Default,GREAT Ad Narrator,0,0,0,,{\pos(960,940)}You can get across everywhere (that matters) in a matter of minutes!
-Dialogue: 0,0:03:29.76,0:03:33.49,Default,GREAT Ad Narrator,0,0,0,,{\pos(960,940)}The best part is that it is {\b1\i1\u1}✨⭐100% FREE!⭐✨{\b0\i0\u0}
-Dialogue: 0,0:03:33.49,0:03:36.49,Default,GREAT Ad Narrator,0,0,0,,So, what are you waiting for?
-Dialogue: 0,0:03:36.49,0:03:39.35,Default,GREAT Ad Narrator,0,0,0,,Use GREAT today!
-Dialogue: 0,0:03:39.35,0:03:46.75,Default,GREAT Ad Narrator,0,0,0,,{\pos(960,686)}GREAT is 100% free to use, however, we are not liable for\Nany accidents that may happen in the infrastructure.\NIf you intentionally use the wrong lane in the railway system,\Nand suffer an accident, GREAT cannot be held liable, and\Nwill not compensate for anything that is caused.\NWe will fully support the well-behaving victim, though.
-Dialogue: 0,0:03:47.27,0:03:49.75,Default,Sauce Dude,0,0,0,,Yoo, wassup, gang?
-Dialogue: 0,0:03:49.75,0:03:53.49,Default,Sauce Dude,0,0,0,,Sauce Dude back... again
-Dialogue: 0,0:03:53.49,0:03:56.64,Default,Sauce Dude,0,0,0,,And... I've been- I've been playin' on this new Minecraft server
-Dialogue: 0,0:03:56.64,0:03:58.60,Default,Sauce Dude,0,0,0,,I'on even remember what it's called, it's like
-Dialogue: 0,0:03:58.60,0:04:00.73,Default,Sauce Dude,0,0,0,,ISS, or somethin'...
-Dialogue: 0,0:04:00.73,0:04:02.25,Default,Sauce Dude,0,0,0,,And I've gotta say
-Dialogue: 0,0:04:02.25,0:04:03.79,Default,Sauce Dude,0,0,0,,I'm not really a fan
-Dialogue: 0,0:04:03.79,0:04:06.56,Default,Sauce Dude,0,0,0,,of this, like, bum ***- bum *** server, okay?
-Dialogue: 0,0:04:06.56,0:04:09.56,Default,Sauce Dude,0,0,0,,It's like... It's li- [???]- There's like-
-Dialogue: 0,0:04:09.56,0:04:12.56,Default,Sauce Dude,0,0,0,,There's like two things here, alright? And everything's all green...
-Dialogue: 0,0:04:12.56,0:04:14.99,Default,Sauce Dude,0,0,0,,And it's stupid... alright-
-Dialogue: 0,0:04:14.99,0:04:17.99,Default,Sauce Dude,0,0,0,,And the website doesn't even have the right version number on it
-Dialogue: 0,0:04:17.99,0:04:20.99,Default,Sauce Dude,0,0,0,,it's like- whaareweoin-- what are we doin' here?
+Dialogue: 0,0:02:19.32,0:02:21.78,Default,ThinkSeal,0,0,0,,{\pos(960,796)}A Internet CRSS foi finalmente lançada!
+Dialogue: 0,0:02:21.78,0:02:26.36,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Em breve, um site informativo estará disponível em {\b1\u1}crssi.cc{\b0\u0}.
+Dialogue: 0,0:02:26.36,0:02:31.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Você também poderá preencher um formulário para registrar seu próprio site na CRSSi em breve.
+Dialogue: 0,0:02:31.49,0:02:35.31,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Você pode abrir qualquer site da CRSSi através de qualquer
+Dialogue: 0,0:02:35.31,0:02:36.74,Default,ThinkSeal,0,0,0,,{\pos(960,796)}navegador web moderno.
+Dialogue: 0,0:02:36.74,0:02:42.39,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Você pode usar coisas como "o mod MCEF" para acessar a CRSSi
+Dialogue: 0,0:02:42.39,0:02:44.85,Default,ThinkSeal,0,0,0,,{\pos(960,796)}em nosso mundo, ou os navegadores
+Dialogue: 0,0:02:44.85,0:02:47.85,Default,ThinkSeal,0,0,0,,{\pos(960,796)}"FireFox, Chrome, Edge e Brave"
+Dialogue: 0,0:02:47.85,0:02:50.15,Default,ThinkSeal,0,0,0,,{\pos(960,796)}nos outros universos.
+Dialogue: 0,0:02:50.15,0:02:58.37,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Um site muito legal já está disponível em ✨northerniiholidays.crssi.cc,\Nvá la ver!
+Dialogue: 0,0:02:59.49,0:03:04.13,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Iremos te mostrar mais notícias incriveis e entrevistas ainda mais {\i1}ÓTIMA{\i0}s depois dos nossos patrocinadores.
+Dialogue: 0,0:03:12.28,0:03:13.99,Default,GREAT Ad Narrator,0,0,0,,Por anos...
+Dialogue: 0,0:03:12.99,0:03:14.99,Default,GREAT Ad Narrator,0,0,0,,{\i1\pos(312,1028)}(ou melhor, meses){\i0}
+Dialogue: 0,0:03:13.99,0:03:18.99,Default,GREAT Ad Narrator,0,0,0,,Jogadores do CRSS3 têm sofrido com a incapacidade de correr.
+Dialogue: 0,0:03:18.99,0:03:21.99,Default,GREAT Ad Narrator,0,0,0,,Por isso, inventamos o GREAT.
+Dialogue: 0,0:03:22.87,0:03:25.87,Default,GREAT Ad Narrator,0,0,0,,Com nossas{\b1} cinco{\b0} estações em {\i1}locais convenientes{\i0},
+Dialogue: 0,0:03:25.87,0:03:29.49,Default,GREAT Ad Narrator,0,0,0,,{\pos(960,940)}você pode chegar em qualquer lugar (que importa) em questão de minutos!
+Dialogue: 0,0:03:29.76,0:03:33.49,Default,GREAT Ad Narrator,0,0,0,,{\pos(960,940)}A melhor parte é que esse serviço é {\b1\i1\u1}✨⭐100% GRÁTIS!⭐✨{\b0\i0\u0}
+Dialogue: 0,0:03:33.49,0:03:36.49,Default,GREAT Ad Narrator,0,0,0,,Então, o que você tá esperando?
+Dialogue: 0,0:03:36.49,0:03:39.35,Default,GREAT Ad Narrator,0,0,0,,Use o GREAT hoje!
+Dialogue: 0,0:03:39.35,0:03:46.75,Default,GREAT Ad Narrator,0,0,0,,{\pos(960,686)}O GREAT é 100% gratuito, porém, nós não nos responsabilizamos\Npor quaisquer acidentes que possam acontecer em nossa infraestrutura.\NSe você for intencionalmente na contra-mão, e sofrer um acidente,\No GREAT não pode ser responsabilizado, e nós não o indenizaremos por nada.\NPorém, nós iremos dar completo apoio à vítima inocente.
+Dialogue: 0,0:03:47.27,0:03:49.75,Default,Sauce Dude,0,0,0,,Fala aí, meus mano
+Dialogue: 0,0:03:49.75,0:03:53.49,Default,Sauce Dude,0,0,0,,Sauce Dude de volta aqui...
+Dialogue: 0,0:03:53.49,0:03:56.64,Default,Sauce Dude,0,0,0,,E... eu achei essa- eu achei esse server de mine aqui
+Dialogue: 0,0:03:56.64,0:03:58.60,Default,Sauce Dude,0,0,0,,Eu nem lembro como que isso chama, é tipo
+Dialogue: 0,0:03:58.60,0:04:00.73,Default,Sauce Dude,0,0,0,,ISS, ou alguma coisa assim
+Dialogue: 0,0:04:00.73,0:04:02.25,Default,Sauce Dude,0,0,0,,E deixa eu passar a visão
+Dialogue: 0,0:04:02.25,0:04:03.79,Default,Sauce Dude,0,0,0,,Eu não gostei
+Dialogue: 0,0:04:03.79,0:04:06.56,Default,Sauce Dude,0,0,0,,dessa ***** de ***** que eles chama de servidor, tá?
+Dialogue: 0,0:04:06.56,0:04:09.56,Default,Sauce Dude,0,0,0,,É que- É que- [???]- Tem tipo-
+Dialogue: 0,0:04:09.56,0:04:12.56,Default,Sauce Dude,0,0,0,,Aqui só tem duas coisa, tá? E é tudo verdão...
+Dialogue: 0,0:04:12.56,0:04:14.99,Default,Sauce Dude,0,0,0,,E é feião... tá bom-
+Dialogue: 0,0:04:14.99,0:04:17.99,Default,Sauce Dude,0,0,0,,E o site deles nem tem a versão do mine certa lá
+Dialogue: 0,0:04:17.99,0:04:20.99,Default,Sauce Dude,0,0,0,,e tipo- quequenóista-- quê que cês tá fazendo?
 Dialogue: 0,0:04:20.99,0:04:25.99,Default,Sauce Dude,0,0,0,,reoawgtjfikrewjokhnjnjnuanuttlaiujiehtgloauewjkdnoeiwapjçfoieaekwj
-Dialogue: 0,0:04:25.99,0:04:28.99,Default,Sauce Dude,0,0,0,,But...
-Dialogue: 0,0:04:28.99,0:04:31.49,Default,Sauce Dude,0,0,0,,Look at- Look at Ralsei
-Dialogue: 0,0:04:31.49,0:04:33.49,Default,Sauce Dude,0,0,0,,Look at that
-Dialogue: 0,0:04:33.49,0:04:36.49,Default,Sauce Dude,0,0,0,,But- you know what else you should look at, that's even cooler?
-Dialogue: 0,0:04:36.49,0:04:39.49,Default,Sauce Dude,0,0,0,,Than that Ralsei plushie? Okay, you shoul look at this server
-Dialogue: 0,0:04:39.49,0:04:41.14,Default,Sauce Dude,0,0,0,,It's called Craftocracy
-Dialogue: 0,0:04:41.14,0:04:44.88,Default,Sauce Dude,0,0,0,,Way cooler than whatever that bum *** **** I get on
-Dialogue: 0,0:04:44.88,0:04:47.88,Default,Sauce Dude,0,0,0,,for this, like, what? I don't even know what this is. 'Kay
-Dialogue: 0,0:04:47.88,0:04:50.88,Default,Sauce Dude,0,0,0,,This is stupid. 'Kay, but what's {\i1}not{\i0} stupid
-Dialogue: 0,0:04:50.88,0:04:53.88,Default,Sauce Dude,0,0,0,,Is our upcoming Election Season, alright? On the
-Dialogue: 0,0:04:53.88,0:04:56.35,Default,Sauce Dude,0,0,0,,12th of September, I think?
-Dialogue: 0,0:04:56.35,0:04:56.66,Default,Sauce Dude,0,0,0,,A'ight?
-Dialogue: 0,0:04:56.66,0:04:59.39,Default,Sauce Dude,0,0,0,,Any loser, can like, just sign up
-Dialogue: 0,0:04:59.39,0:05:01.87,Default,Sauce Dude,0,0,0,,and try to run for president, alright?
-Dialogue: 0,0:05:01.87,0:05:03.73,Default,Sauce Dude,0,0,0,,Even {\b1\i1}I{\b0\i0} was president once.
-Dialogue: 0,0:05:03.73,0:05:06.18,Default,Sauce Dude,0,0,0,,And do I sound fuael- Do I sound qualified for that?
-Dialogue: 0,0:05:06.18,0:05:06.61,Default,Sauce Dude,0,0,0,,No.
-Dialogue: 0,0:05:06.61,0:05:09.61,Default,Sauce Dude,0,0,0,,And... And it happened anyway.
-Dialogue: 0,0:05:06.09,0:05:06.30,Default,hell no,0,0,0,,{\pos(960,400)}hell no
-Dialogue: 0,0:05:09.61,0:05:11.72,Default,Sauce Dude,0,0,0,,Which is why {\i1}you{\i0} should try too. Alright?
+Dialogue: 0,0:04:25.99,0:04:28.99,Default,Sauce Dude,0,0,0,,Mas...
+Dialogue: 0,0:04:28.99,0:04:31.49,Default,Sauce Dude,0,0,0,,Olha- Óia só a Ralsei
+Dialogue: 0,0:04:31.49,0:04:33.49,Default,Sauce Dude,0,0,0,,Óia só pra ela
+Dialogue: 0,0:04:33.49,0:04:36.49,Default,Sauce Dude,0,0,0,,Mas- sabe o que mais você tem que ver que é ainda mais ****?
+Dialogue: 0,0:04:36.49,0:04:39.49,Default,Sauce Dude,0,0,0,,do que esse bonequin' da Ralsei? Aqui, olha só esse server
+Dialogue: 0,0:04:39.49,0:04:41.14,Default,Sauce Dude,0,0,0,,Chama Craftocracy
+Dialogue: 0,0:04:41.14,0:04:44.88,Default,Sauce Dude,0,0,0,,Muito mais daora que aquela **** do ******* do outro
+Dialogue: 0,0:04:44.88,0:04:47.88,Default,Sauce Dude,0,0,0,,tipo, quê?? Eu nem sei o que esse daqui é. Tá.
+Dialogue: 0,0:04:47.88,0:04:50.88,Default,Sauce Dude,0,0,0,,Ele num presta. Tá? Mas o que {\i1}presta{\i0} é
+Dialogue: 0,0:04:50.88,0:04:53.88,Default,Sauce Dude,0,0,0,,nossa temporada de eleição, tá certo? No dia
+Dialogue: 0,0:04:53.88,0:04:56.35,Default,Sauce Dude,0,0,0,,12 de Setembro, eu acho?
+Dialogue: 0,0:04:56.35,0:04:56.66,Default,Sauce Dude,0,0,0,,'tendeu?
+Dialogue: 0,0:04:56.66,0:04:59.39,Default,Sauce Dude,0,0,0,,Qualquer menó pode, tipo,
+Dialogue: 0,0:04:59.39,0:05:01.87,Default,Sauce Dude,0,0,0,,virar presidente do nada se quiser, tá?
+Dialogue: 0,0:05:01.87,0:05:03.73,Default,Sauce Dude,0,0,0,,Até {\b1\i1}EU{\b0\i0} fui presidente uma vez.
+Dialogue: 0,0:05:03.73,0:05:06.18,Default,Sauce Dude,0,0,0,,E por akhaso- Por acaso parece que eu tenho vocação pra isso?
+Dialogue: 0,0:05:06.18,0:05:06.61,Default,Sauce Dude,0,0,0,,Não.
+Dialogue: 0,0:05:06.61,0:05:09.61,Default,Sauce Dude,0,0,0,,E... Aconteceu do mesmo jeito.
+Dialogue: 0,0:05:06.09,0:05:06.30,Default,hell no,0,0,0,,{\pos(960,400)}nem a pau
+Dialogue: 0,0:05:09.61,0:05:11.72,Default,Sauce Dude,0,0,0,,Por isso que {\i1}você{\i0}tem que tentar também. Tá certo?
 Dialogue: 0,0:05:13.88,0:05:14.62,Default,Sauce Dude,0,0,0,,Yeah!
-Dialogue: 0,0:05:14.99,0:05:17.62,Default,ThinkSeal,0,0,0,,{\pos(960,796)}We would like to announce that the GREAT system is
-Dialogue: 0,0:05:17.62,0:05:20.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}already finished and functional in CRSS 3 !
-Dialogue: 0,0:05:20.99,0:05:23.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}It is {\i1}completely free{\i0} and has automatic stops
-Dialogue: 0,0:05:23.99,0:05:25.36,Default,ThinkSeal,0,0,0,,{\pos(960,796)}on every station.
-Dialogue: 0,0:05:25.36,0:05:28.36,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Sometimes they can't keep up with the speed of the minecarts,
-Dialogue: 0,0:05:28.36,0:05:32.21,Default,ThinkSeal,0,0,0,,{\pos(960,796)}but they will slow you down enough that you can manually stop them.
-Dialogue: 0,0:05:33.76,0:05:36.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}The system currently has five stations, those being
-Dialogue: 0,0:05:36.49,0:05:45.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}The Evo Station, the Oak Station, the Hagstrom Station,\Nthe Faux Plains station, and the Tilapia Station.
+Dialogue: 0,0:05:14.99,0:05:17.62,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Nós gostariamos de anunciar que o sistema GREAT já
+Dialogue: 0,0:05:17.62,0:05:20.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}está finalizado e funcionando no CRSS 3 !
+Dialogue: 0,0:05:20.99,0:05:23.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Ele é {\i1}completamente grátis{\i0} e tem paradas automáticas
+Dialogue: 0,0:05:23.99,0:05:25.36,Default,ThinkSeal,0,0,0,,{\pos(960,796)}em cada estação.
+Dialogue: 0,0:05:25.36,0:05:28.36,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Às vezes as paradas não conseguem frear os carrinhos o suficiente,
+Dialogue: 0,0:05:28.36,0:05:32.21,Default,ThinkSeal,0,0,0,,{\pos(960,796)}mas os freiarão o suficiente para você conseguir sair manualmente.
+Dialogue: 0,0:05:33.76,0:05:36.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}O sistema atualmente conta com cinco estações, sendo elas
+Dialogue: 0,0:05:36.49,0:05:45.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}a Estação Evo, a Estação Oak, a Estação Hagstrom,\Na Estação Faux Plains, e a Estação Tilapia.
 Dialogue: 0,0:05:46.71,0:05:49.16,Default,ThinkSeal,0,0,0,,{\pos(960,796)}GREAT Staff have said there's plans
-Dialogue: 0,0:05:49.16,0:05:52.16,Default,ThinkSeal,0,0,0,,{\pos(960,796)}to build more stations as other districts,
-Dialogue: 0,0:05:52.16,0:05:54.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)} cities and nations begin to form, and that they will
-Dialogue: 0,0:05:54.99,0:05:58.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}connect to the main Oak Station in one way or another.
-Dialogue: 0,0:05:58.99,0:06:02.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}After basic path and tunnel infrastructures were built,
-Dialogue: 0,0:06:02.99,0:06:05.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}expanding the area of our city southwards,
-Dialogue: 0,0:06:05.99,0:06:08.87,Default,ThinkSeal,0,0,0,,{\pos(960,796)}citizens have already built their own houses and
-Dialogue: 0,0:06:08.87,0:06:11.87,Default,ThinkSeal,0,0,0,,{\pos(960,796)}structures on the new land, which inspired the
+Dialogue: 0,0:05:49.16,0:05:52.16,Default,ThinkSeal,0,0,0,,{\pos(960,796)} cities and nations begin to form, and that they will
+Dialogue: 0,0:05:52.16,0:05:54.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}connect to the main Oak Station in one way or another.
+Dialogue: 0,0:05:54.99,0:05:58.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}After basic path and tunnel infrastructures were built,
+Dialogue: 0,0:05:58.99,0:06:02.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}expanding the area of our city southwards,
+Dialogue: 0,0:06:02.99,0:06:05.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}citizens have already built their own houses and
+Dialogue: 0,0:06:05.99,0:06:08.87,Default,ThinkSeal,0,0,0,,{\pos(960,796)}structures on the new land, which inspired the
+Dialogue: 0,0:06:08.87,0:06:11.87,Default,ThinkSeal,0,0,0,,{\pos(960,796)}town "leaders" to name the area as
 Dialogue: 0,0:06:11.87,0:06:14.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}town "leaders" to name the area as
 Dialogue: 0,0:06:14.49,0:06:17.31,Default,ThinkSeal,0,0,0,,{\pos(960,796)}"Evo District". GREAT has already seen the
 Dialogue: 0,0:06:17.31,0:06:20.31,Default,ThinkSeal,0,0,0,,{\pos(960,796)}potential this area has, and Line 0 already
