@@ -2,33 +2,33 @@
 
 QNN #7 - Advanced Redstone Machines
 
-=== DESCRIPTION
+=== DESCRIPTION ===
 
 QNN #7 - Advanced Redstone Machines
 
-Written by: blurryface
+Escrito por: blurryface
 
-Host - ThinkSeal
-Camera - blryface
-Prime Minister - WorldWidePixel
+Apresentador - ThinkSeal
+Câmera - blryface
+Primeire Ministre - WorldWidePixel
 
-Set Producers
+Produtores
 
 blryface
 ThinkSeal
 WorldWidePixel
 
 
-Quartz News Network™ is a production of Quartz
-Media LLC, recorded at the Quartz and Oak Studios. 
+Quartz News Network™ é uma produção da Quartz
+Media LTDA, gravada nos Estúdios Quartz e Oak. 
 
-Quartz Media LLC is a subsidiary of 
-Quartz Industries Inc.
+Quartz Media LTDA é uma subsidiária da 
+Quartz Industries S.A.
 
 
-QNN™ is brought to you by our sponsors:
+QNN™ é apresentado por:
 
-The Northern Party
+O Partido Northern
 iHPM™
 Pridecraft Studios
 TCFRHCLLC™
@@ -53,14 +53,14 @@ episode, “sponsor” or display a midroll “ad”, or
 purely play in the server these episodes are set in, 
 join the CRSS discord. An invite is available at our website.
 
-Attribution
+Atribuição
 
-Music by cordova
+Musica por cordova
 © 2024 - 2025
-WorldWidePixel
+cordova
 All Rights Reserved
 
-TTS Voices by Microsoft
+TTS Voices pela Microsoft
 
 C418 - “Dog”
 © 2011 - All Rights Reserved
@@ -71,9 +71,9 @@ CRSS merely has permission to use those clips.
 All fall under All Rights Reserved unless 
 stated otherwise.
 
-Video by CRSS
+Video por CRSS
 © 2025 All Rights Reserved
 
 Any other clips that were not produced by us
- fall under “Fair Use”.
+fall under “Fair Use”.
  

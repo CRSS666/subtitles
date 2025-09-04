@@ -15,9 +15,9 @@ Video File: QNN #7 - Advanced Redstone Machines (Landscape).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 96
-Active Line: 104
-Video Position: 20803
+Scroll Position: 135
+Active Line: 151
+Video Position: 29340
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -129,52 +129,51 @@ Dialogue: 0,0:05:25.36,0:05:28.36,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Às ve
 Dialogue: 0,0:05:28.36,0:05:32.21,Default,ThinkSeal,0,0,0,,{\pos(960,796)}mas os freiarão o suficiente para você conseguir sair manualmente.
 Dialogue: 0,0:05:33.76,0:05:36.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}O sistema atualmente conta com cinco estações, sendo elas
 Dialogue: 0,0:05:36.49,0:05:45.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}a Estação Evo, a Estação Oak, a Estação Hagstrom,\Na Estação Faux Plains, e a Estação Tilapia.
-Dialogue: 0,0:05:46.71,0:05:49.16,Default,ThinkSeal,0,0,0,,{\pos(960,796)}GREAT Staff have said there's plans
-Dialogue: 0,0:05:49.16,0:05:52.16,Default,ThinkSeal,0,0,0,,{\pos(960,796)} cities and nations begin to form, and that they will
-Dialogue: 0,0:05:52.16,0:05:54.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}connect to the main Oak Station in one way or another.
-Dialogue: 0,0:05:54.99,0:05:58.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}After basic path and tunnel infrastructures were built,
-Dialogue: 0,0:05:58.99,0:06:02.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}expanding the area of our city southwards,
-Dialogue: 0,0:06:02.99,0:06:05.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}citizens have already built their own houses and
-Dialogue: 0,0:06:05.99,0:06:08.87,Default,ThinkSeal,0,0,0,,{\pos(960,796)}structures on the new land, which inspired the
-Dialogue: 0,0:06:08.87,0:06:11.87,Default,ThinkSeal,0,0,0,,{\pos(960,796)}town "leaders" to name the area as
-Dialogue: 0,0:06:11.87,0:06:14.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}town "leaders" to name the area as
-Dialogue: 0,0:06:14.49,0:06:17.31,Default,ThinkSeal,0,0,0,,{\pos(960,796)}"Evo District". GREAT has already seen the
-Dialogue: 0,0:06:17.31,0:06:20.31,Default,ThinkSeal,0,0,0,,{\pos(960,796)}potential this area has, and Line 0 already
-Dialogue: 0,0:06:20.31,0:06:24.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}includes a station at the Evo District.
-Dialogue: 0,0:06:24.49,0:06:25.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}BREAKING NEWS!
-Dialogue: 0,0:06:25.99,0:06:27.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Multiple {\b1}trusted{\b0} scientists from the
-Dialogue: 0,0:06:27.99,0:06:30.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Northern Institute of Communal Enlightment
-Dialogue: 0,0:06:30.49,0:06:32.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}have just made a shocking discovery:
-Dialogue: 0,0:06:32.49,0:06:35.58,Default,ThinkSeal,0,0,0,,{\pos(960,796)}For years, everyone in both worlds believed the mathematical
-Dialogue: 0,0:06:35.58,0:06:37.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}operation “2 + 2 = {\u1\b1}4{\u0\b0}” (two plus two equals {\b1\i1}four{\b0\i0})
-Dialogue: 0,0:06:37.99,0:06:40.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}but the truth is, it actually equals {\b1\i1\u1}five{\b0\i0\u0}.
-Dialogue: 0,0:06:40.99,0:06:43.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}This changes literally everything – we cannot believe
-Dialogue: 0,0:06:43.99,0:06:46.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}we were fooled by the socialist brainwash from Sake
-Dialogue: 0,0:06:46.99,0:06:49.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}and the Social Party so much that we carried this
-Dialogue: 0,0:06:49.49,0:06:51.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}disinformation forward.
-Dialogue: 0,0:06:51.49,0:06:54.28,Default,ThinkSeal,0,0,0,,{\pos(960,796)}It is our commitment to correct the untruthful
-Dialogue: 0,0:06:54.28,0:06:59.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}information from old times, we hope this newfound information is put to good use.
-Dialogue: 0,0:06:59.99,0:07:02.93,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Quartz Media has just announced they'll be running a campaign
-Dialogue: 0,0:07:02.93,0:07:05.81,Default,ThinkSeal,0,0,0,,{\pos(960,796)}of interviewing residents and leaders of many nations
-Dialogue: 0,0:07:05.81,0:07:06.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}– current and defunct –
-Dialogue: 0,0:07:06.99,0:07:09.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}and will produce tours around their areas.
-Dialogue: 0,0:07:09.99,0:07:12.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Smaller regions will be clumped up together
-Dialogue: 0,0:07:12.99,0:07:15.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}in a single video, but will get the same care and love
-Dialogue: 0,0:07:15.99,0:07:19.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}as the standalone editions for larger regions.
-Dialogue: 0,0:07:19.99,0:07:22.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}When asked if this will delay production of Quartz News Network,
-Dialogue: 0,0:07:22.99,0:07:24.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}their response was as follows:
-Dialogue: 0,0:07:24.99,0:07:26.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}“It actually will be the other way around –
-Dialogue: 0,0:07:26.99,0:07:30.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}while we will put as much effort as we can on
-Dialogue: 0,0:07:30.49,0:07:33.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}producing the tours, QNN remains the priority.
-Dialogue: 0,0:07:33.49,0:07:36.64,Default,ThinkSeal,0,0,0,,{\pos(960,796)}If we're nearing the QNN deadline, we'll drop
-Dialogue: 0,0:07:36.64,0:07:39.40,Default,ThinkSeal,0,0,0,,{\pos(960,796)}our work on the tours and focus entirely on finishing up and
-Dialogue: 0,0:07:39.40,0:07:40.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}polishing QNN first.”
-Dialogue: 0,0:07:40.99,0:07:44.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}We will report the progress of on-going
-Dialogue: 0,0:07:44.49,0:07:46.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}productions on future QNN editions.
-Dialogue: 0,0:07:47.99,0:07:51.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Coming up next, an interview with the two main members of GREAT.
-Dialogue: 0,0:07:51.99,0:07:58.85,Default,Comment,0,0,0,,{\fs72\pos(960,640)}we didnt have time lol\Ninterview coming in\NQNN #8
-Dialogue: 0,0:07:58.85,0:08:01.85,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Thank you for watching this edition of Quartz News Network.
-Dialogue: 0,0:08:01.85,0:08:04.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}We'll see you next month!
-Dialogue: 0,0:08:04.49,0:08:08.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)\i1\s1}tn cnhtn lvtegtreefe!otrnen oicmevro ' owoneDseohrev t eoe{\i0\s0}
+Dialogue: 0,0:05:46.71,0:05:49.16,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Funcionários do GREAT disseram que têm planos
+Dialogue: 0,0:05:49.16,0:05:52.16,Default,ThinkSeal,0,0,0,,{\pos(960,796)}de expandir o GREAT para mais cidades e nações quando tais começarem a surgir, e que
+Dialogue: 0,0:05:52.16,0:05:54.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}todas irão conectar-se à Estação Oak de um jeito ou de outro.
+Dialogue: 0,0:05:54.99,0:05:58.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Após infraestrutura básica de locomoção ser construída ao sul,
+Dialogue: 0,0:05:58.99,0:06:02.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}expandindo a área nossa cidade ainda mais,
+Dialogue: 0,0:06:02.99,0:06:05.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}diversos cidadãos já se instalaram e construíram
+Dialogue: 0,0:06:05.99,0:06:11.87,Default,ThinkSeal,0,0,0,,{\pos(960,796)}suas próprias casas e estruturas na nova terra, o que inspirou
+Dialogue: 0,0:06:11.87,0:06:14.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}os "líderes" da cidade à nomear o bairro
+Dialogue: 0,0:06:14.49,0:06:17.31,Default,ThinkSeal,0,0,0,,{\pos(960,796)}"Distrito Evo". O GREAT já viu o potencial
+Dialogue: 0,0:06:17.31,0:06:20.31,Default,ThinkSeal,0,0,0,,{\pos(960,796)}do novo bairro, e a Linha 0 já
+Dialogue: 0,0:06:20.31,0:06:24.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}inclui uma estação no Distrito Evo.
+Dialogue: 0,0:06:24.49,0:06:25.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}NOTÍCIAS URGENTES
+Dialogue: 0,0:06:25.99,0:06:27.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Diversos cientistas {\b1}confiáveis{\b0} do
+Dialogue: 0,0:06:27.99,0:06:30.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Instituto Northern de Desilusão Comunal
+Dialogue: 0,0:06:30.49,0:06:32.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}chegaram à uma descoberta chocante:
+Dialogue: 0,0:06:32.49,0:06:35.58,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Por anos, todos em ambos os mundos acreditavam que
+Dialogue: 0,0:06:35.58,0:06:37.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}a operação matemática "2 + 2 ={\u1\b1}4{\u0\b0}" (dois mais dois é igual à {\b1\i1}quatro{\b0\i0})
+Dialogue: 0,0:06:37.99,0:06:40.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}mas a verdade é que é igual à {\b1\i1\u1}cinco{\b0\i0\u0}.
+Dialogue: 0,0:06:40.99,0:06:43.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Isso muda literalmente tudo – não conseguimos
+Dialogue: 0,0:06:43.99,0:06:46.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}acreditar que fomos enganados pela lavagem cerebral
+Dialogue: 0,0:06:46.99,0:06:49.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}de Sake e o Partido Socialista tão bem que carregamos
+Dialogue: 0,0:06:49.49,0:06:51.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}essa desinformação adiante.
+Dialogue: 0,0:06:51.49,0:06:54.28,Default,ThinkSeal,0,0,0,,{\pos(960,796)}É nosso compromisso corrigir informações
+Dialogue: 0,0:06:54.28,0:06:59.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}não verdadeiras de tempos antigos, esperamos que essa nova informação seja útil para todos.
+Dialogue: 0,0:06:59.99,0:07:02.93,Default,ThinkSeal,0,0,0,,{\pos(960,796)}A Quartz Media acabou de anunciar que irão efetuar uma campanha
+Dialogue: 0,0:07:02.93,0:07:05.81,Default,ThinkSeal,0,0,0,,{\pos(960,796)}de entrevistas aos habitantes e líderes de diversas nações
+Dialogue: 0,0:07:05.81,0:07:06.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}– atuais e passadas –
+Dialogue: 0,0:07:06.99,0:07:09.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}e produzirão tours em suas áreas.
+Dialogue: 0,0:07:09.99,0:07:12.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Regiões menores serão unidas em
+Dialogue: 0,0:07:12.99,0:07:15.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}um único vídeo, mas receberção o mesmo amor e carinho
+Dialogue: 0,0:07:15.99,0:07:19.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}que as edições das regiões maiores.
+Dialogue: 0,0:07:19.99,0:07:22.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Quando questionados se isso afetaria a produção do QNN,
+Dialogue: 0,0:07:22.99,0:07:24.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}sua resposta foi a seguinte:
+Dialogue: 0,0:07:24.99,0:07:26.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}"Vai ser o contrário, na verdade –
+Dialogue: 0,0:07:26.99,0:07:30.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}nós iremos trabalhar duro na
+Dialogue: 0,0:07:30.49,0:07:33.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}produção dos tours, mas o QNN continua sendo a prioridade.
+Dialogue: 0,0:07:33.49,0:07:36.64,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Se estivermos perto da deadline do QNN, nós vamos
+Dialogue: 0,0:07:36.64,0:07:39.40,Default,ThinkSeal,0,0,0,,{\pos(960,796)}interromper a produção nos tours e focar em finalizar e
+Dialogue: 0,0:07:39.40,0:07:40.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}revisar o QNN primeiro."
+Dialogue: 0,0:07:40.99,0:07:44.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Nós iremos reportar sobre o progresso de produção
+Dialogue: 0,0:07:44.49,0:07:46.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}dos tours nas edições futuras do QNN.
+Dialogue: 0,0:07:47.99,0:07:51.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)}A seguir, uma entrevista com os dois principais membros do GREAT.
+Dialogue: 0,0:07:51.99,0:07:58.85,Default,Comment,0,0,0,,{\fs72\pos(960,640)}não tivemos tempo de fazer KKKKKKKK\NA entrevista estará pronta\Nno QNN #8
+Dialogue: 0,0:07:58.85,0:08:01.85,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Obrigado por assistir essa edição do Quartz News Network.
+Dialogue: 0,0:08:01.85,0:08:04.49,Default,ThinkSeal,0,0,0,,{\pos(960,796)}Nos vemos mês que vem!
+Dialogue: 0,0:08:04.49,0:08:08.99,Default,ThinkSeal,0,0,0,,{\pos(960,796)\i1\s1}oessoer t q!N n dal enaeeaooehqqrantçõtuc edsNaes oeeecr iãrmsveç rue u{\i0\s0}
 Comment: 0,0:08:08.99,0:08:11.99,Default,Comment,0,0,0,,The original text for the above line is "Don't forget to vote northern whenever elections even come!". You can use ward.worldwidepixel.ca to scramble the letters around, mimicking the English version's line.
-Dialogue: 0,0:08:08.99,0:08:14.99,Default,Credit,0,0,0,,Captions by Blurryface
+Dialogue: 0,0:08:08.99,0:08:14.99,Default,Credit,0,0,0,,Legendas originais por Blurryface\N\NTradução e adaptação para Português\NBrasileiro por Blurryface\N\N{\i1\s1\fs22}tudo eu nessa casa...{\i0\s0}
