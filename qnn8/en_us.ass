@@ -18,8 +18,9 @@ Video File: D:/Vídeos/QNN/# 8/Exports/QNN #8 - Pending Title.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 13
-Video Position: 1341
+Scroll Position: 34
+Active Line: 50
+Video Position: 9375
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -52,3 +53,40 @@ Dialogue: 0,0:00:18.28,0:00:20.15,Top-center Alligned,Intro,0,0,0,,{\pos(960,82)
 Dialogue: 0,0:00:20.15,0:00:21.82,Top-center Alligned,Intro,0,0,0,,{\pos(960,82)}We sincerely ask you to not visit TOA.
 Dialogue: 0,0:00:21.82,0:00:22.35,Top-center Alligned,Intro,0,0,0,,{\pos(960,82)}#VoteNorthern
 Dialogue: 0,0:00:22.35,0:00:25.26,Default,ThinkSeal,0,0,0,,{\pos(960,760)}We have received official news from the workers of the
+Dialogue: 0,0:00:25.26,0:00:28.78,Default,ThinkSeal,0,0,0,,{\pos(960,760)}Panoramic Metro that it is finally being fixed!
+Dialogue: 0,0:00:28.78,0:00:29.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}Though progress is being made,
+Dialogue: 0,0:00:29.99,0:00:34.49,Default,ThinkSeal,0,0,0,,{\pos(960,760)}it is important to note that it is not at its GREATest state yet.
+Dialogue: 0,0:00:34.49,0:00:37.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}New stations are being built, and many plans are being made,
+Dialogue: 0,0:00:37.99,0:00:41.79,Default,ThinkSeal,0,0,0,,{\pos(960,760)}but it will take a while until the project is complete.
+Dialogue: 0,0:00:41.79,0:00:46.06,Default,ThinkSeal,0,0,0,,{\pos(960,760)}While the Panoramic Metro isn't ready, take this moment to walk around ROP
+Dialogue: 0,0:00:46.06,0:00:49.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}and explore new places you've not been to before!
+Dialogue: 0,0:00:49.99,0:00:52.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}If you get tired of it, you can always visit the beautiful and
+Dialogue: 0,0:00:52.99,0:00:55.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}cute country of Chunkia.
+Dialogue: 0,0:00:55.99,0:00:59.49,Default,ThinkSeal,0,0,0,,{\pos(960,760)}Garage programmers from Panorama have created an incredible and
+Dialogue: 0,0:00:59.49,0:01:02.82,Default,ThinkSeal,0,0,0,,{\pos(960,760)}very useful website on the CRSSi!
+Dialogue: 0,0:01:02.82,0:01:05.82,Default,ThinkSeal,0,0,0,,{\pos(960,760)}The group has come up with Yippe!, a company that helps
+Dialogue: 0,0:01:05.82,0:01:09.07,Default,ThinkSeal,0,0,0,,{\pos(960,760)}users find things on the CRSS Internet!
+Dialogue: 0,0:01:09.07,0:01:11.92,Default,ThinkSeal,0,0,0,,{\pos(960,760)}It currently has a public alpha available to be tested, but
+Dialogue: 0,0:01:11.92,0:01:15.08,Default,ThinkSeal,0,0,0,,{\pos(960,760)}they're reportedly working on a more advanced version behind closed doors
+Dialogue: 0,0:01:15.08,0:01:18.41,Default,ThinkSeal,0,0,0,,{\pos(960,760)}so that they can give a more polished experience.
+Dialogue: 0,0:01:18.41,0:01:21.55,Default,ThinkSeal,0,0,0,,{\pos(960,760)}Yippe! has also asked us to remind you to take all cookies
+Dialogue: 0,0:01:21.55,0:01:24.93,Default,ThinkSeal,0,0,0,,{\pos(960,760)}they offer you, because they're yummy and benefit both sides:
+Dialogue: 0,0:01:24.93,0:01:30.22,Default,ThinkSeal,0,0,0,,{\pos(960,760)}They satiate your hunger, and they satiate Yippe!’s costs.
+Dialogue: 0,0:01:30.22,0:01:33.16,Default,ThinkSeal,0,0,0,,{\pos(960,760)}We have just received word that two lovers from far away nations
+Dialogue: 0,0:01:33.16,0:01:36.49,Default,ThinkSeal,0,0,0,,{\pos(960,760)}have come to Panorama to officialise their holy marriage.
+Dialogue: 0,0:01:36.49,0:01:39.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}Sam, from the same place as Dorothy herself, had decided
+Dialogue: 0,0:01:39.99,0:01:42.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}with Stella, from a town named after many small rivers,
+Dialogue: 0,0:01:42.99,0:01:47.32,Default,ThinkSeal,0,0,0,,{\pos(960,760)}to officialise their marriage with no big celebrations at the Water Church.
+Dialogue: 0,0:01:47.32,0:01:50.20,Default,ThinkSeal,0,0,0,,{\pos(960,760)}in an interview, they've said they decided to do it more
+Dialogue: 0,0:01:50.20,0:01:53.20,Default,ThinkSeal,0,0,0,,{\pos(960,760)}privately as the first heteroaffective marriage in
+Dialogue: 0,0:01:53.20,0:01:56.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}the nation would have brought too much attention.
+Dialogue: 0,0:01:56.99,0:01:59.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}We've been held at bow-point by The Gods to tell you that the
+Dialogue: 0,0:01:59.99,0:02:03.49,Default,ThinkSeal,0,0,0,,{\pos(960,760)}CRSS Internet has received many updates!
+Dialogue: 0,0:02:03.49,0:02:06.60,Default,ThinkSeal,0,0,0,,{\pos(960,760)}The crssi.cc website is still empty,
+Dialogue: 0,0:02:06.60,0:02:14.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}but other websites – such as Yippe!, GREAT, QNN,\NThe Minecraft Wiki, and many more – are already available to be accessed.
+Dialogue: 0,0:02:14.99,0:02:17.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}You can look up any site by searching it on Yippe! Search
+Dialogue: 0,0:02:17.99,0:02:22.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}through this address: {\u1\b1}s.yippe.crssi.cc{\u0\b0}
+Dialogue: 0,0:02:22.99,0:02:25.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}The Gods have also informed us that, if you want to run your own
+Dialogue: 0,0:02:25.99,0:02:33.25,Default,ThinkSeal,0,0,0,,{\pos(960,760)}CRSSi Website, you should go to crss.cc and click the Discord link.
+Dialogue: 0,0:02:33.25,0:02:36.25,Default,ThinkSeal,0,0,0,,{\pos(960,760)}We are here live at the official residence of the Prime Minister
+Dialogue: 0,0:02:36.25,0:02:39.25,Default,ThinkSeal,0,0,0,,{\pos(960,760)}as they are about to give a press conference.
