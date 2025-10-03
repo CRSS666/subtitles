@@ -18,9 +18,9 @@ Video File: QNN #8 - Pending Title.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 1
-Active Line: 1
-
+Scroll Position: 295
+Active Line: 306
+Video Position: 77400
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -315,4 +315,34 @@ Dialogue: 0,0:18:06.71,0:18:10.77,Center-left alligned,ThinkSeal,0,0,0,,{\pos(13
 Dialogue: 0,0:18:10.77,0:18:15.21,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1464,760)}Yes.
 Dialogue: 0,0:18:15.21,0:18:18.21,Center-left alligned,ThinkSeal,0,0,0,,{\pos(144,760)}Back to your regularly scheduled QNN.
 Dialogue: 0,0:18:18.21,0:18:21.21,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1474,760)}meow
-Dialogue: 0,0:18:21.21,0:18:24.21,Default,,0,0,0,,{\pos(960,760)}send hel
+Dialogue: 0,0:18:21.64,0:18:26.49,Default,ThinkSeal,0,0,0,,{\pos(960,760)}We have just received word that Tim has founded the Tim’s Thousing housing company!
+Dialogue: 0,0:18:26.49,0:18:31.28,Default,ThinkSeal,0,0,0,,{\pos(960,760)}If you need a house, just contact them at their HQ in Upper Evo.
+Dialogue: 0,0:18:31.28,0:18:33.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}Tim’s Thousing provides quick and good quality
+Dialogue: 0,0:18:33.99,0:18:37.43,Default,ThinkSeal,0,0,0,,{\pos(960,760)} construction for any kind of building – not just houses
+Dialogue: 0,0:18:37.43,0:18:41.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}– and they assure you they’ll find a way to fit the cost within your budget!
+Dialogue: 0,0:18:41.99,0:18:44.87,Default,ThinkSeal,0,0,0,,{\pos(960,760)}If you’re new, or don’t have a lot of resources to spend,
+Dialogue: 0,0:18:44.87,0:18:47.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}Tim’s Thousing does provide free construction, but they have begged us
+Dialogue: 0,0:18:47.99,0:18:51.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}to make it clear that you should not expect the best quality from free options,
+Dialogue: 0,0:18:51.99,0:18:56.90,Default,ThinkSeal,0,0,0,,{\pos(960,760)}and they will not ever be responsible for maintenance or reconstruction of any free building.
+Dialogue: 0,0:18:56.90,0:19:00.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}Free buildings are also limited to small housing buildings.
+Dialogue: 0,0:19:00.99,0:19:03.93,Default,ThinkSeal,0,0,0,,{\pos(960,760)}The main GREAT members have just informed us (and begged us
+Dialogue: 0,0:19:03.93,0:19:06.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}to inform this immediately to you) that they have improved the infrastructure
+Dialogue: 0,0:19:06.99,0:19:10.20,Default,ThinkSeal,0,0,0,,{\pos(960,760)}by connecting the Evo Station to the Tilapia station directly,
+Dialogue: 0,0:19:10.20,0:19:13.91,Default,ThinkSeal,0,0,0,,{\pos(960,760)}instead of having you go through Oak, Haggstrom and Faux Plains stations,
+Dialogue: 0,0:19:13.91,0:19:18.22,Default,ThinkSeal,0,0,0,,{\pos(960,760)}as that was insanely complicated and slower than walking.
+Dialogue: 0,0:19:18.22,0:19:18.94,Default,ThinkSeal,0,0,0,,{\pos(960,760)}Breaking news!
+Dialogue: 0,0:19:18.94,0:19:22.35,Default,ThinkSeal,0,0,0,,{\pos(960,760)}A GREAT passenger just sent us footage of misbehaving
+Dialogue: 0,0:19:22.35,0:19:25.35,Default,ThinkSeal,0,0,0,,{\pos(960,760)}passengers taking the wrong lane and crashing onto them!
+Dialogue: 0,0:19:25.35,0:19:26.74,Default,ThinkSeal,0,0,0,,{\pos(960,760)}Here's the found footage:
+Dialogue: 0,0:19:26.65,0:19:29.54,Default - Opaque black box,On-screen Comment,0,0,0,,{\pos(960,442)}Uhh, the producer forgot\Nabout this so...\N\NJust imagine a minecart\Ncrash from a dashcam,\Nand the rider shouts\N"OKAY CARMIN, SAVE VIDEO"
+Dialogue: 0,0:19:29.54,0:19:32.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}It is a great thing that GREAT provides a free-to-use dashcam service
+Dialogue: 0,0:19:32.99,0:19:35.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}on every minecart for any passengers that go through any issue
+Dialogue: 0,0:19:35.99,0:19:38.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}related to their rides, easily summonable by saying
+Dialogue: 0,0:19:38.99,0:19:42.76,Default,ThinkSeal,0,0,0,,{\pos(960,760)} ‘Okay Carmin, save video’ out loud in whatever language you may need.
+Dialogue: 0,0:19:42.76,0:19:46.82,Default,ThinkSeal,0,0,0,,{\pos(960,760)}It is important to point out that this accident was {\b1}not{\b0} GREAT’s fault
+Dialogue: 0,0:19:46.82,0:19:51.83,Default,ThinkSeal,0,0,0,,{\pos(960,760)}as going through the wrong lane intentionally falls under the passenger's responsibility.
+Dialogue: 0,0:19:53.84,0:19:57.84,Default,ThinkSeal,0,0,0,,{\pos(960,760)}Thank you for watching this edition of Quartz News Network. See you next time!
+Dialogue: 0,0:19:57.84,0:20:00.84,Default,On-screen Comment,0,0,0,,Captioned, styled and synced in English by Blurryface.
+Comment: 0,0:20:00.84,0:20:03.84,Default,,0,0,0,,CREDIT YOURSELF ON THE LINE ABOVE, ADDING /N AFTER THE .
+Comment: 0,0:20:03.84,0:20:06.84,Default,,0,0,0,,EXAMPLE: Captioned, styled and synced in English by Blurryface.\NTranslated to Brazilian Portuguese by Blurryface.
+Dialogue: 0,0:21:07.49,0:21:34.25,Top-center Alligned,,0,0,0,,{\pos(960,106)}Thank you for watching!
