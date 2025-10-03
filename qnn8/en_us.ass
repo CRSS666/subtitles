@@ -18,8 +18,9 @@ Video File: QNN #8 - Pending Title.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
+Scroll Position: 1
 Active Line: 1
-Video Position: 1
+
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -115,8 +116,8 @@ Dialogue: 0,0:03:46.99,0:03:48.19,Bottom-center alligned,WorldWidePixel,0,0,0,,T
 Dialogue: 0,0:03:48.19,0:03:50.49,Bottom-center alligned,WorldWidePixel,0,0,0,,okay talk done
 Dialogue: 0,0:03:50.49,0:03:55.49,Default,ThinkSeal,0,0,0,,{\pos(960,760)}Coming up after the sponsors:\NThe {\i1}GREAT{\i0}est interview you've ever watched.
 Dialogue: 0,0:06:28.99,0:06:31.99,Center-right alligned,ThinkSeal,0,0,0,,{\pos(960,760)}Thanks for coming to the interview, Pixel!
-Dialogue: 0,0:06:31.99,0:06:35.49,Center-right alligned,ThinkSeal,0,0,0,,{\pos(960,760)}What are your plans for the expansion of GREAT?
-Dialogue: 0,0:06:36.99,0:06:39.29,Center-left alligned,WorldWidePixel,0,0,0,,{\pos(960,760)}Okay, so, right now,
+Dialogue: 0,0:06:31.99,0:06:35.49,Center-right alligned,ThinkSeal,0,0,0,,{\pos(1092,760)}What are your plans for the expansion of GREAT?
+Dialogue: 0,0:06:36.99,0:06:39.29,Center-left alligned,WorldWidePixel,0,0,0,,{\pos(1212,760)}Okay, so, right now,
 Dialogue: 0,0:06:39.29,0:06:42.29,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}GREAT is in its funding state.
 Dialogue: 0,0:06:42.29,0:06:45.85,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}We have just opened the entirety of Line 0.
 Dialogue: 0,0:06:45.85,0:06:48.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}A circle line around the, uh, main town
@@ -130,39 +131,41 @@ Dialogue: 0,0:07:06.94,0:07:11.66,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}W
 Dialogue: 0,0:07:11.66,0:07:15.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}which was built to make it easier to access tree farms,
 Dialogue: 0,0:07:15.49,0:07:19.31,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}but, also, other commerce will be added as well.
 Dialogue: 0,0:07:19.31,0:07:22.31,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Um, any comment, Blurry?
-Dialogue: 0,0:07:22.31,0:07:25.83,Default,blryface,0,0,0,,{\pos(960,760)}m   e   o   w
-Dialogue: 0,0:07:25.83,0:07:26.99,Center-left alligned,WorldWidePixel,0,0,0,,{\pos(960,760)}Thank you.
-Dialogue: 0,0:07:26.99,0:07:34.99,Center-right alligned,ThinkSeal,0,0,0,,{\pos(960,760)}How much redstone will it cost\Nto make these new buildings?
-Dialogue: 0,0:07:34.99,0:07:35.99,Center-left alligned,WorldWidePixel,0,0,0,,{\pos(960,760)}Um.
-Dialogue: 0,0:07:35.99,0:07:38.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}We don't like thinking about cost, in
+Dialogue: 0,0:07:22.31,0:07:25.83,Default,blryface,0,0,0,,{\pos(1134,760)}m   e   o   w
+Dialogue: 0,0:07:25.83,0:07:26.99,Center-left alligned,WorldWidePixel,0,0,0,,{\pos(1284,760)}Thank you.
+Dialogue: 0,0:07:26.99,0:07:34.99,Center-right alligned,ThinkSeal,0,0,0,,{\pos(836,760)}How much redstone will it cost\Nto make these new buildings?
+Dialogue: 0,0:07:34.99,0:07:35.99,Center-left alligned,WorldWidePixel,0,0,0,,{\pos(1372,760)}Um.
+Dialogue: 0,0:07:35.99,0:07:38.99,Center-left alligned,WorldWidePixel,0,0,0,,{\pos(1052,760)}We don't like thinking about cost, in
+Dialogue: 0,0:07:38.99,0:07:41.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Physical or Monetary amounts.
+Dialogue: 0,0:07:41.99,0:07:44.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}We like thinking about it, in human cost.
 Dialogue: 0,0:07:46.36,0:07:49.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}How much time, how much tears, how much blood, how much pain
 Dialogue: 0,0:07:49.99,0:07:52.11,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}did it take to build these,
-Dialogue: 0,0:07:52.11,0:07:55.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}beautiful rail systems?
+Dialogue: 0,0:07:52.11,0:07:55.99,Default,WorldWidePixel,0,0,0,,{\pos(1400,760)}beautiful rail systems?
 Dialogue: 0,0:07:52.11,0:07:54.23,Default,blryface,0,0,0,,{\pos(1170,684)}Oh. My. God. YES.
-Dialogue: 0,0:07:55.99,0:07:58.42,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}The answer is, a [___] lot.
+Dialogue: 0,0:07:55.99,0:07:58.42,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}The answer is, a [---] lot.
 Dialogue: 0,0:07:58.42,0:08:01.42,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}So...
-Dialogue: 0,0:08:01.42,0:08:06.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}{\i1}insert laughter track here{\i0}
-Dialogue: 0,0:08:06.49,0:08:10.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}The answer is, a [___] lot. Yeah.
+Dialogue: 0,0:08:01.42,0:08:06.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}{\i1}*insert laughter track here*{\i0}
+Dialogue: 0,0:08:06.49,0:08:10.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}The answer is, a [---] lot. Yeah.
 Dialogue: 0,0:08:10.49,0:08:13.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}We stride to always aim for the lowest costs,
 Dialogue: 0,0:08:13.49,0:08:17.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}but sadly, there's always some stragglers.
 Dialogue: 0,0:08:17.49,0:08:19.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Especially because we're all seeming to have a
 Dialogue: 0,0:08:19.99,0:08:22.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}mental health crisis at the moment.
-Dialogue: 0,0:08:22.99,0:08:24.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Does this answer your question?
-Dialogue: 0,0:08:24.99,0:08:31.49,Default,ThinkSeal,0,0,0,,{\pos(960,760)}Other than the previously mentioned difficulties,\Nwhat other difficulties have you encountered while building GREAT?
-Dialogue: 0,0:08:31.49,0:08:34.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Okay, so, I think one of the major issues
+Dialogue: 0,0:08:22.99,0:08:24.99,Default,WorldWidePixel,0,0,0,,{\pos(1368,760)}Does this answer your question?
+Dialogue: 0,0:08:24.99,0:08:31.49,Center-left alligned,ThinkSeal,0,0,0,,{\pos(92,760)}Other than the previously mentioned difficulties,\Nwhat other difficulties have you encountered while building GREAT?
+Dialogue: 0,0:08:31.49,0:08:34.99,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1796,760)}Okay, so, I think one of the major issues
 Dialogue: 0,0:08:34.99,0:08:37.33,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}of designing GREAT, was, um.
 Dialogue: 0,0:08:37.33,0:08:39.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}building under the house of Ploopy. Uh,
-Dialogue: 0,0:08:39.99,0:08:42.40,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Their house is [___] ginormous.
+Dialogue: 0,0:08:39.99,0:08:42.40,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Their house is [---] ginormous.
 Dialogue: 0,0:08:42.40,0:08:45.40,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}And, they have a very integrated tunnel system.
-Dialogue: 0,0:08:45.40,0:08:48.40,Default,ThinkSeal,0,0,0,,{\pos(960,760)}So, instead of building through the mountain
+Dialogue: 0,0:08:45.40,0:08:48.40,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}So, instead of building through the mountain
 Dialogue: 0,0:08:48.40,0:08:51.40,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}as we originally wanted to do, we have instead
-Dialogue: 0,0:08:51.40,0:08:52.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}to tunnel around it.
+Dialogue: 0,0:08:51.40,0:08:52.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}had to tunnel around it.
 Dialogue: 0,0:08:52.99,0:08:55.36,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}We have taxed them for this extra work,
 Dialogue: 0,0:08:55.36,0:08:57.89,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}and they are currently in bankruptcy court.
-Dialogue: 0,0:08:57.89,0:09:00.89,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Again, human cost, who gives a [___]?
-Dialogue: 0,0:09:00.89,0:09:04.28,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Okay... Wait- whydoihavan
-Dialogue: 0,0:09:04.28,0:09:12.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}What are your plans for increasing your revenue\Nfrom GREAT to maintain its active growth?
-Dialogue: 0,0:09:12.49,0:09:15.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Here at GREAT, we think revenue
+Dialogue: 0,0:08:57.89,0:09:00.89,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Again, human cost, who gives a [---]?
+Dialogue: 0,0:09:00.89,0:09:04.28,Center-left alligned,ThinkSeal,0,0,0,,{\pos(308,760)}Okay... Wait- whydoihavan
+Dialogue: 0,0:09:04.28,0:09:12.49,Center-left alligned,ThinkSeal,0,0,0,,{\pos(158,760)}What are your plans for increasing your revenue\Nfrom GREAT to maintain its active growth?
+Dialogue: 0,0:09:12.49,0:09:15.49,Center-left alligned,WorldWidePixel,0,0,0,,{\pos(1060,760)}Here at GREAT, we think revenue
 Dialogue: 0,0:09:15.49,0:09:18.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}is a social construct. We don't think that
 Dialogue: 0,0:09:18.49,0:09:24.76,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}we need to make revenue to help provide a {\i1}GREAT{\i0} service to our custumers.
 Dialogue: 0,0:09:24.76,0:09:26.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}The Pixel Regime
@@ -174,37 +177,37 @@ Dialogue: 0,0:09:34.68,0:09:37.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}f
 Dialogue: 0,0:09:37.99,0:09:43.43,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}that we are able to give without taking.
 Dialogue: 0,0:09:43.43,0:09:45.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Except for human lives, but we already went over that.
 Dialogue: 0,0:09:51.49,0:09:53.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Does this answer your question?
-Dialogue: 0,0:09:53.49,0:09:56.36,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Yeah.
-Dialogue: 0,0:09:56.36,0:10:00.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}What are your plans to integrate AI into this product?
-Dialogue: 0,0:10:00.49,0:10:03.75,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Woah, woah, woah, woah! No, don't! Okay?! I- I have a family!
+Dialogue: 0,0:09:53.49,0:09:56.36,Center-left alligned,WorldWidePixel,0,0,0,,{\pos(492,760)}Yeah.
+Dialogue: 0,0:09:56.36,0:10:00.49,Center-left alligned,WorldWidePixel,0,0,0,,{\pos(80,760)}What are your plans to integrate AI into this product?
+Dialogue: 0,0:10:00.49,0:10:03.75,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1820,760)}Woah, woah, woah, woah! No, don't! Okay?! I- I have a family!
 Dialogue: 0,0:10:03.75,0:10:04.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Um, uh, um uh,
 Dialogue: 0,0:10:04.49,0:10:10.31,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}You think a hyper-vision super-charged nano-processors of the quantum dimension
 Dialogue: 0,0:10:10.31,0:10:16.26,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}we hope to help superstagnate the hypertension of the New Desert river
 Dialogue: 0,0:10:16.26,0:10:22.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}to help {\i1}enthusiise{\i0} our constituents into an AI-hypermind.
-Dialogue: 0,0:10:22.49,0:10:26.49,Default,ThinkSeal,0,0,0,,{\pos(960,760)}What is your response to the allegations of being an economist?
-Dialogue: 0,0:10:28.99,0:10:29.76,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}You see
-Dialogue: 0,0:10:29.76,0:10:32.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}I don't see myself as an economist.
+Dialogue: 0,0:10:22.49,0:10:26.49,Center-left alligned,ThinkSeal,0,0,0,,{\pos(68,760)}What is your response to the allegations of being an economist?
+Dialogue: 0,0:10:28.99,0:10:29.76,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1436,760)}You see
+Dialogue: 0,0:10:29.76,0:10:32.49,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1718,760)}I don't see myself as an economist.
 Dialogue: 0,0:10:32.49,0:10:34.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}I see myself as a futurist.
 Dialogue: 0,0:10:34.49,0:10:37.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}I believe that a {\i1}great{\i0} country
 Dialogue: 0,0:10:37.49,0:10:40.34,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}can be persevered and obtained
 Dialogue: 0,0:10:40.34,0:10:45.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}if I am the sole power.
 Dialogue: 0,0:10:45.49,0:10:50.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}I think using the power of the people, to my advantage, we can, build
 Dialogue: 0,0:10:50.49,0:10:52.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)} a {\i1}GREAT{\i0} ROP.
-Dialogue: 0,0:10:52.99,0:10:56.57,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Make Panorama {\i1}Great{\i0}.
-Dialogue: 0,0:10:56.57,0:10:58.86,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}No, just {\i1}Great{\i0}
+Dialogue: 0,0:10:52.99,0:10:56.57,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1578,760)}Make Panorama {\i1}Great{\i0}.
+Dialogue: 0,0:10:56.57,0:10:58.86,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1512,760)}No, just {\i1}Great{\i0}
 Dialogue: 0,0:10:55.85,0:10:56.57,Default,blryface,0,0,0,,{\pos(1190,694)}Again?
-Dialogue: 0,0:10:58.86,0:11:02.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}uh, Make CRSS GREAT              .
-Dialogue: 0,0:11:02.99,0:11:05.15,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}[Uh, make CRSS GREAT Railway.]
-Dialogue: 0,0:11:05.15,0:11:12.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}MAKE CRSS 3 GREAT RAILWAY!\NMAKE CR- sorry.
-Dialogue: 0,0:11:12.49,0:11:18.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}What are your plans to prevent mobs from attacking the riders on GREAT?
-Dialogue: 0,0:11:20.14,0:11:21.58,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Using...
-Dialogue: 0,0:11:21.58,0:11:24.90,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Our AI Hypervision Hivemind Technology
+Dialogue: 0,0:10:58.86,0:11:02.99,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1700,760)}uh, Make CRSS GREAT              .
+Dialogue: 0,0:11:02.99,0:11:05.15,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1700,760)}Uh, make CRSS GREAT Railway.
+Dialogue: 0,0:11:05.15,0:11:12.49,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1672,760)}MAKE CRSS 3 GREAT RAILWAY!\NMAKE CR- sorry.
+Dialogue: 0,0:11:12.49,0:11:18.99,Center-left alligned,ThinkSeal,0,0,0,,{\pos(118,760)}What are your plans to prevent mobs from attacking the riders on GREAT?
+Dialogue: 0,0:11:20.14,0:11:21.58,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1462,760)}Using...
+Dialogue: 0,0:11:21.58,0:11:24.90,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1752,760)}Our AI Hypervision Hivemind Technology
 Dialogue: 0,0:11:24.90,0:11:28.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}We have built 'GREAT Separation' to prevent mobs
 Dialogue: 0,0:11:28.49,0:11:30.85,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}from accessing rails easily.
-Dialogue: 0,0:11:30.85,0:11:39.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}What is your response to the minecart crash that was seen on the last QNN?
-Dialogue: 0,0:11:41.49,0:11:42.82,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}That...
-Dialogue: 0,0:11:42.82,0:11:43.17,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Was-
-Dialogue: 0,0:11:43.17,0:11:46.17,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}THAT WAS FAKE NEWS! CRAFTED BY MY COMPETITORS!
+Dialogue: 0,0:11:30.85,0:11:39.99,Center-left alligned,ThinkSeal,0,0,0,,{\pos(130,760)}What is your response to the minecart crash that was seen on the last QNN?
+Dialogue: 0,0:11:41.49,0:11:42.82,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1398,760)}That...
+Dialogue: 0,0:11:42.82,0:11:43.17,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1394,760)}Was-
+Dialogue: 0,0:11:43.17,0:11:46.17,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1832,760)}THAT WAS FAKE NEWS! CRAFTED BY MY COMPETITORS!
 Dialogue: 0,0:11:46.17,0:11:49.17,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}TO HELP PROFITEER, PROFITEER THEIR PROPAGANDA!
 Dialogue: 0,0:11:49.17,0:11:52.17,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}THEIR PROPAGANDA AGAINST MY CAMPAIGN!
 Dialogue: 0,0:11:52.17,0:11:55.17,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}IT'S FAKE NEWS!
@@ -218,8 +221,8 @@ Dialogue: 0,0:12:11.99,0:12:14.60,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}T
 Dialogue: 0,0:12:14.60,0:12:16.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}THEY'RE EATING THE MINECARTS.
 Dialogue: 0,0:12:16.99,0:12:19.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Sake... Is eating... The CATS!
 Dialogue: 0,0:12:19.99,0:12:24.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}{\i1}the cats- the cats- the cats-{\i0}
-Dialogue: 0,0:12:28.62,0:12:35.31,Default,ThinkSeal,0,0,0,,{\pos(960,760)}What is your plan for when AI no longer as a buzzword to get free marketing?
-Dialogue: 0,0:12:36.20,0:12:38.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Uh, we'll switch to the next buzzword.
+Dialogue: 0,0:12:28.62,0:12:35.31,Center-left alligned,ThinkSeal,0,0,0,,{\pos(134,760)}What is your plan for when AI no longer as a buzzword to get free marketing?
+Dialogue: 0,0:12:36.20,0:12:38.99,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1684,760)}Uh, we'll switch to the next buzzword.
 Dialogue: 0,0:12:38.99,0:12:41.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}We- we- we've ridden... many cases.
 Dialogue: 0,0:12:41.99,0:12:44.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}I remember back when ROP was doing- I meant,
 Dialogue: 0,0:12:44.99,0:12:48.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}when CRSS was on the [---] craze.
@@ -236,31 +239,31 @@ Dialogue: 0,0:13:15.68,0:13:20.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}s
 Dialogue: 0,0:13:20.99,0:13:26.23,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Um, we also are backing [---] in that [---] as well. Um,
 Dialogue: 0,0:13:26.23,0:13:29.23,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Meow. So, yeah.
 Dialogue: 0,0:13:32.34,0:13:33.26,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Meow.
-Dialogue: 0,0:13:33.26,0:13:38.18,Default,ThinkSeal,0,0,0,,{\pos(960,760)}What is your opinion on💠emoji?
-Dialogue: 0,0:13:33.26,0:13:38.18,Default,ThinkSeal,0,0,0,,{\fs24\pos(960,696)}(Diamond Shape With A Dot Inside emoji)
-Dialogue: 0,0:13:38.18,0:13:41.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Um. It was pioneered as propaganda
+Dialogue: 0,0:13:33.26,0:13:38.18,Center-right alligned,ThinkSeal,0,0,0,,{\pos(960,760)}What is your opinion on 💠 emoji?
+Dialogue: 0,0:13:33.26,0:13:38.18,Center-right alligned,ThinkSeal,0,0,0,,{\fs24\pos(960,696)}(Diamond Shape With A Dot Inside emoji)
+Dialogue: 0,0:13:38.18,0:13:41.49,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1708,760)}Um. It was pioneered as propaganda
 Dialogue: 0,0:13:41.49,0:13:43.79,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}for the Social Party.
-Dialogue: 0,0:13:43.79,0:13:47.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}It's designed to look like either a [---] hole or a portal cube
+Dialogue: 0,0:13:43.79,0:13:47.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}It's designed to look like either a [---] hole or a Portal cube
 Dialogue: 0,0:13:47.49,0:13:50.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}depending on your political standpoint.
 Dialogue: 0,0:13:50.49,0:13:53.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}I see a Portal cube, of course.
 Dialogue: 0,0:13:53.49,0:13:56.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Um, I think it should be erradicated.
-Dialogue: 0,0:13:56.49,0:14:00.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}Have you checked if the exits are locked to this building?
-Dialogue: 0,0:14:00.99,0:14:04.92,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Um. I really don't care. That's Blurry's problem.
+Dialogue: 0,0:13:56.49,0:14:00.99,Center-left alligned,ThinkSeal,0,0,0,,{\pos(128,760)}Have you checked if the exits are locked to this building?
+Dialogue: 0,0:14:00.99,0:14:04.92,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1786,760)}Um. I really don't care. That's Blurry's problem.
 Dialogue: 0,0:14:04.92,0:14:08.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}I- I'm just- I'm here. You know? I'm paid a salary,
-Dialogue: 0,0:14:08.49,0:14:11.37,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Like, I could not give a [---]. I barely eve- 
+Dialogue: 0,0:14:08.49,0:14:11.37,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Like, I could not give a [---]. I barely eve-
 Dialogue: 0,0:14:11.37,0:14:15.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}I just work here. And I have {\i1}absolutely{\i0} no other involvement
-Dialogue: 0,0:14:15.49,0:14:19.25,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}with this organisation other than being brought on to interviews,
+Dialogue: 0,0:14:15.49,0:14:19.25,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}with this organisation other than being brought into interviews,
 Dialogue: 0,0:14:19.25,0:14:22.25,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}and sometimes making music. You know, like
 Dialogue: 0,0:14:22.25,0:14:25.91,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}some people think that just because I'm part of QNN,
 Dialogue: 0,0:14:25.91,0:14:30.13,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}it means I'm a journalist. (I'm secretely [---] but don't tell people)
 Dialogue: 0,0:14:30.13,0:14:32.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}And like, they are completely wrong, like
 Dialogue: 0,0:14:32.49,0:14:35.80,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}I just work here. There is nothing else.
 Dialogue: 0,0:14:35.80,0:14:38.80,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}No other involvement with QNN.
-Dialogue: 0,0:14:39.63,0:14:41.80,Default,ThinkSeal,0,0,0,,{\pos(960,760)}But are you not the prime minister?
-Dialogue: 0,0:14:44.39,0:14:46.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}I don't wish to comment on that.
-Dialogue: 0,0:14:50.61,0:14:53.40,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Wait, how did I become the prime min-
-Dialogue: 0,0:14:53.14,0:14:59.49,Default,ThinkSeal,0,0,0,,{\pos(960,718)}What is your response to the trademark infringement on your name of pixels on screens?
-Dialogue: 0,0:15:01.99,0:15:04.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Um. Okay, so- I've had...
+Dialogue: 0,0:14:39.63,0:14:41.80,Center-left alligned,ThinkSeal,0,0,0,,{\pos(224,760)}But are you not the prime minister?
+Dialogue: 0,0:14:44.39,0:14:46.49,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1642,760)}I don't wish to comment on that.
+Dialogue: 0,0:14:50.61,0:14:53.40,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1640,760)}Wait, how did I become the prime min-
+Dialogue: 0,0:14:53.14,0:14:59.49,Center-left alligned,ThinkSeal,0,0,0,,{\pos(28,718)}What is your response to the trademark infringement on your name of pixels on screens?
+Dialogue: 0,0:15:01.99,0:15:04.49,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1566,760)}Um. Okay, so- I've had...
 Dialogue: 0,0:15:04.49,0:15:06.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Several interviews with Yippe!.
 Dialogue: 0,0:15:06.99,0:15:09.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Most of them job interviews. Um.
 Dialogue: 0,0:15:10.99,0:15:12.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}I failed all of them.
@@ -269,28 +272,28 @@ Dialogue: 0,0:15:14.83,0:15:18.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}A
 Dialogue: 0,0:15:19.17,0:15:22.14,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Even though, we are both equally as important,
 Dialogue: 0,0:15:22.14,0:15:25.14,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}I have the upper hand, because I make music,
 Dialogue: 0,0:15:25.14,0:15:27.14,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}and Yippe!, doesn't.
-Dialogue: 0,0:15:29.49,0:15:36.62,Default,ThinkSeal,0,0,0,,{\pos(960,760)}What is your- What is your plan to make sure that GREAT will last forever and never degrade?
-Dialogue: 0,0:15:37.78,0:15:41.20,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Okay, so, essentially: Totaliarism... nism.
+Dialogue: 0,0:15:29.49,0:15:36.62,Center-left alligned,ThinkSeal,0,0,0,,{\pos(138,760)}What is your plan to make sure that GREAT will last forever and never degrade?
+Dialogue: 0,0:15:37.78,0:15:41.20,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1712,760)}Okay, so, essentially: Totaliarism... nism.
 Dialogue: 0,0:15:41.99,0:15:46.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}By consolidating business and the state into one megapower,
 Dialogue: 0,0:15:46.49,0:15:50.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}we are able to take advantage of AI-Supercharged
 Dialogue: 0,0:15:50.49,0:15:51.85,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Rail Mending
 Dialogue: 0,0:15:51.85,0:15:55.07,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}so that we can fire Blurry, and it can maintain itself.
 Dialogue: 0,0:15:55.99,0:15:57.49,Default,blryface,0,0,0,,{\pos(960,760)}What the [---]???
 Dialogue: 0,0:16:00.26,0:16:01.23,Default,blryface,0,0,0,,{\pos(960,760)}What did I do???
-Dialogue: 0,0:16:02.79,0:16:04.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Uh, you will die someday.
-Dialogue: 0,0:16:07.99,0:16:10.10,Default,ThinkSeal,0,0,0,,{\pos(960,760)}There's no issues with that logic!
-Dialogue: 0,0:16:11.31,0:16:14.76,Default,Lizzie,0,0,0,,{\pos(960,760)}How long will it take until great is Touring Complete?
-Dialogue: 0,0:16:15.68,0:16:18.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Uh, GREAT is actually already touring complete.
+Dialogue: 0,0:16:02.79,0:16:04.49,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1620,760)}Uh, you will die someday.
+Dialogue: 0,0:16:07.99,0:16:10.10,Center-left alligned,ThinkSeal,0,0,0,,{\pos(156,760)}There's no issues with that logic!
+Dialogue: 0,0:16:11.31,0:16:14.76,Top-right Alligned,Lizzie,0,0,0,,{\pos(1784,234)}How long will it take until great is Touring Complete?
+Dialogue: 0,0:16:15.68,0:16:18.99,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1782,760)}Uh, GREAT is actually already touring complete.
 Dialogue: 0,0:16:18.99,0:16:22.23,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Thanks to its Advanced AI Integration,
-Dialogue: 0,0:16:22.23,0:16:25.19,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}we've partnered with ClosedGB to provide the best
+Dialogue: 0,0:16:22.23,0:16:25.19,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}we've partnered with ClosedJB to provide the best
 Dialogue: 0,0:16:25.19,0:16:27.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}experience to our customers, and now
 Dialogue: 0,0:16:27.99,0:16:30.56,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}the experience can be passed on to you!
 Dialogue: 0,0:16:30.56,0:16:34.26,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Using GREAT+, USD $5/month or CAD $6/month,
 Dialogue: 0,0:16:34.26,0:16:38.27,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}you can experience the best of GREAT's amazing AI features!
 Dialogue: 0,0:16:38.27,0:16:40.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}For the price, of a {\i1}car{\i0}.
 Dialogue: 0,0:16:44.17,0:16:46.13,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Sounds quite nice, right?
-Dialogue: 0,0:16:46.13,0:16:55.99,Default,ThinkSeal,0,0,0,,{\pos(960,760)}What is your plans to bring GREAT to the 4th dimension\Nto be able to traverse space {\i1}and{\i0} time at the same time?
-Dialogue: 0,0:16:55.99,0:17:00.87,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}So, actually, we've already introduced this feature to our GREAT+ plan!
+Dialogue: 0,0:16:46.13,0:16:55.99,Center-left alligned,ThinkSeal,0,0,0,,{\pos(90,760)}What is your plans to bring GREAT to the 4th dimension\Nto be able to traverse space {\i1}and{\i0} time at the same time?
+Dialogue: 0,0:16:55.99,0:17:00.87,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1876,760)}So, actually, we've already introduced this feature to our GREAT+ plan!
 Dialogue: 0,0:17:00.87,0:17:03.99,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}If you just go, and enable the '4th dimension' option
 Dialogue: 0,0:17:03.99,0:17:10.21,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Um, it's in settings, in privacy. Uh, It also enables data tracking...\NDon't think about it too hard.
 Dialogue: 0,0:17:10.21,0:17:13.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}It will let you traverse the 4th and the 5th dimensions
@@ -301,15 +304,15 @@ Dialogue: 0,0:17:22.57,0:17:25.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}w
 Dialogue: 0,0:17:25.49,0:17:27.62,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}That's good enough, right? H1?
 Dialogue: 0,0:17:27.49,0:17:29.11,Default,WorldWidePixel,0,0,0,,{\pos(960,708)}Going back a little bit,
 Dialogue: 0,0:17:29.11,0:17:32.11,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}How am I the prime minister of this place too??
-Dialogue: 0,0:17:32.11,0:17:34.81,Default,ThinkSeal,0,0,0,,{\pos(960,760)}Um. I don't know.
-Dialogue: 0,0:17:34.81,0:17:38.49,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Huh, I guess I just feel like leader.
-Dialogue: 0,0:17:40.30,0:17:48.49,Default,ThinkSeal,0,0,0,,{\pos(960,760)}What is your response to apparently being my dog,\Nand having apparently the same cat as me?
-Dialogue: 0,0:17:49.49,0:17:53.79,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}I'm just such a cutie. Meow.
-Dialogue: 0,0:18:00.61,0:18:01.73,Default,ThinkSeal,0,0,0,,{\pos(960,760)}Um...
-Dialogue: 0,0:18:02.36,0:18:03.71,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Next question.
-Dialogue: 0,0:18:03.71,0:18:06.71,Default,ThinkSeal,0,0,0,,{\pos(960,760)}What an amazing interview!
-Dialogue: 0,0:18:06.71,0:18:10.77,Default,ThinkSeal,0,0,0,,{\pos(960,760)}What an amazing interview this has been!
-Dialogue: 0,0:18:10.77,0:18:15.21,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}Yes.
-Dialogue: 0,0:18:15.21,0:18:18.21,Default,ThinkSeal,0,0,0,,{\pos(960,760)}Back to your regularly scheduled QNN.
-Dialogue: 0,0:18:18.21,0:18:21.21,Default,WorldWidePixel,0,0,0,,{\pos(960,760)}meow
+Dialogue: 0,0:17:32.11,0:17:34.81,Center-left alligned,ThinkSeal,0,0,0,,{\pos(296,760)}Um. I don't know.
+Dialogue: 0,0:17:34.81,0:17:38.49,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1724,760)}Huh, I guess I just feel like leader.
+Dialogue: 0,0:17:40.30,0:17:48.49,Center-left alligned,ThinkSeal,0,0,0,,{\pos(126,760)}What is your response to apparently being my dog,\Nand having apparently the same cat as me?
+Dialogue: 0,0:17:49.49,0:17:53.79,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1692,760)}I'm just such a cutie. Meow.
+Dialogue: 0,0:18:00.61,0:18:01.73,Center-left alligned,ThinkSeal,0,0,0,,{\pos(394,760)}Um...
+Dialogue: 0,0:18:02.36,0:18:03.71,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1564,760)}Next question.
+Dialogue: 0,0:18:03.71,0:18:06.71,Center-left alligned,ThinkSeal,0,0,0,,{\pos(182,760)}What an amazing interview!
+Dialogue: 0,0:18:06.71,0:18:10.77,Center-left alligned,ThinkSeal,0,0,0,,{\pos(136,760)}What an amazing interview this has been!
+Dialogue: 0,0:18:10.77,0:18:15.21,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1464,760)}Yes.
+Dialogue: 0,0:18:15.21,0:18:18.21,Center-left alligned,ThinkSeal,0,0,0,,{\pos(144,760)}Back to your regularly scheduled QNN.
+Dialogue: 0,0:18:18.21,0:18:21.21,Center-right alligned,WorldWidePixel,0,0,0,,{\pos(1474,760)}meow
 Dialogue: 0,0:18:21.21,0:18:24.21,Default,,0,0,0,,{\pos(960,760)}send hel
