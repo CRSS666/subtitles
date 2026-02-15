@@ -6,13 +6,15 @@ or, prefferably, using [Aegisub](https://aegisub.org/).
 
 ## File structure
 
-Subtitles are stored in a folder with the title of the video they're from.
+Subtitles are stored in a folder with the title of the video or series they're from.
 
 ```txt
-📂 qnn6
- \- en_us.ass
- \- pt_br.ass
-📂 roptour2025
+📂 qnn
+ \- 📂 s2
+     \- 📂 qnn1
+         \- en_us.ass
+         \- pt_br.ass
+📂 roptour2026
  \- en_us.ass
  \- pt_br.ass
 ```
